@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS Test Utility", "CS Test Utility\CS Test Utility.csproj", "{17F24C19-FDBB-407E-8987-F2231160688B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F24C19-FDBB-407E-8987-F2231160688B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F24C19-FDBB-407E-8987-F2231160688B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F24C19-FDBB-407E-8987-F2231160688B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F24C19-FDBB-407E-8987-F2231160688B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11984C9A-4221-4013-A94E-60F8D47464D0}
+	EndGlobalSection
+EndGlobal
